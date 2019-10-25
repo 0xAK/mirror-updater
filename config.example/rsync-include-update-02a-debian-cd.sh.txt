@@ -1,0 +1,8 @@
++ /
++ current/
++ current/amd64/
++ current/amd64/iso-cd/***
++ current/amd64/iso-dvd/***
++ current/i386/
++ current/i386/iso-cd/***
++ current/i386/iso-dvd/***
