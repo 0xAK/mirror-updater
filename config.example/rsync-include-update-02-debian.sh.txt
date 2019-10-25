@@ -1,0 +1,14 @@
++ /
++ /extrafiles
+
++ dists/
++ dists/jessie/***
++ dists/jessie-updates/***
++ dists/stretch/***
++ dists/stretch-updates/***
+
++ doc/***
++ indices/***
++ pool/***
++ project/***
++ tools/***
