@@ -1,0 +1,23 @@
+- ***/repodata/***
+
++ /
++ 6/
++ 6/os/***
++ 6/extras/***
++ 6/updates/***
++ 6/centosplus/***
++ 6/isos/***
+
++ 7/
++ 7/os/***
++ 7/extras/***
++ 7/updates/***
++ 7/centosplus/***
++ 7/isos/***
+
++ 8/
++ 8/BaseOS
++ 8/BaseOS/x86_64
++ 8/BaseOS/x86_64/os/***
++ 8/isos
++ 8/isos/x86_64/***
