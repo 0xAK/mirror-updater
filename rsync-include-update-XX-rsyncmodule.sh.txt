@@ -1,0 +1,9 @@
++ /
+
++ dirA/
++ dirA/dir1/***
++ dirA/dir2/***
+
++ dirB/
++ dirB/dir1/***
++ dirB/dir1/***
