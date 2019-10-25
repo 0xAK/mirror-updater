@@ -29,7 +29,7 @@ EOF
 exec >/var/log/mirror-updater.log 2>&1
 /bin/logger -t mirror [$$] Started $SCRIPT_FILENAME
 ## put update-*.sh loop here ##
-UPDATEFILES=`ls $HOME/update-0*.sh`
+UPDATEFILES=`ls $HOME/update-*.sh`
 for dingus in $UPDATEFILES
 do
   exec $dingus
